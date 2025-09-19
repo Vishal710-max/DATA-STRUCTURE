@@ -57,7 +57,8 @@ int  main() {
   root = NULL;
 
   do {
-     cout << "\n1 : Insert\n2 : Preorder\n3 : Inorder\n4 : Postorder\n5 : Exit\nEnter your choice: ";
+    cout<<"Enter the Choice:";
+     cout << "\n1 : Insert\n2 : Preorder\n3 : Inorder\n4 : Postorder\n5 : Exit ";
      cin >> ch;
 
      switch (ch)
@@ -206,3 +207,4 @@ int  main() {
 // Enter your choice: 5
 
 // Exited..
+
