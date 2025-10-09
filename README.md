@@ -45,3 +45,25 @@ Each data structure is implemented from scratch with:
 
 ## 🧩 Folder Structure
 
+
+📁 Data-Structures-Cpp
+├── 📂 Arrays
+│ ├── basic_operations.cpp
+│ └── dynamic_array.cpp
+├── 📂 LinkedList
+│ ├── singly_linked_list.cpp
+│ ├── doubly_linked_list.cpp
+│ └── circular_linked_list.cpp
+├── 📂 Stack
+│ ├── stack_array.cpp
+│ └── stack_linkedlist.cpp
+├── 📂 Queue
+│ ├── queue_array.cpp
+│ └── circular_queue.cpp
+├── 📂 Trees
+│ ├── binary_tree.cpp
+│ └── bst.cpp
+├── 📂 Graphs
+│ ├── bfs.cpp
+│ └── dfs.cpp
+└── README.md
