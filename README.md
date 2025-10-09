@@ -61,3 +61,25 @@ Each data structure is implemented from scratch with:
 ├── 📂 Graphs
 │  
 └── README.md
+
+
+🚀 Future Plans
+
+Add algorithm implementations (sorting, searching, etc.)
+
+Add LeetCode-style problem solutions
+
+Provide visualizations and explanations
+
+🤝 Contributing
+
+Contributions are welcome!
+If you’d like to improve existing code or add new data structures:
+
+Fork the repo
+
+Create a new branch
+
+Commit your changes
+
+Open a Pull Request 🚀
