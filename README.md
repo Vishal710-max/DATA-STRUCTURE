@@ -5,6 +5,7 @@ This project is a collection of efficient, well-documented implementations of po
 
 ---
 
+
 ## 📘 About
 This repository aims to help beginners and intermediate programmers understand and implement core **data structures** using **C++ STL and manual implementations**.
 
@@ -33,7 +34,7 @@ Each data structure is implemented from scratch with:
 - Disjoint Set (Union-Find)  
 - Segment Tree  
 
----
+--
 
 ## 🧠 Learning Goals
 - Strengthen understanding of **core data structures**
