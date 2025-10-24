@@ -1,6 +1,7 @@
 /*1:one infix exp 2:read char by char 3:if reading char is operator 
 then perform 2 times pop operation on stack  4:calculate the value frome reading char and poped char 
 and result can be push into stack  5:after reading all exp. make stack empty by pop operation :*/
+
 #include <iostream>
 #define max  50
 #include<math.h>
@@ -83,7 +84,6 @@ int main ()
                     val=pow(op1,op2);
                     ob.push(p,val);   
                     break;
-
                     }
                 }
             else 
@@ -93,6 +93,7 @@ int main ()
         i++;
        }
 z=ob.pop(p);
-cout<<"req. result is :"<<z<<endl;
+cout<<"Req. result is :"<<z<<endl;
 return 0;
+
 } 
