@@ -1,5 +1,6 @@
 // Enter the Infix exp. :(a+b)*C
-// result :*+abC
+// result : *+abC
+
 #include <iostream>
 #define max 50
 #include <string.h>
@@ -95,4 +96,5 @@ int main()
     pre[j] = '\0';
     cout << "required prefix exp. is :" << pre << endl;
     return 0;
+
 }  
