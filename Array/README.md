@@ -10,6 +10,3 @@ These programs are perfect for:
 - Using as sample inputs for larger projects  
 
 ---
-
-## 📂 Folder Structure
-
